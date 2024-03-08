@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Ethnocentric';
+    src: url('../assets/BradleyGratis.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Neoterique';
+    src: url('../assets/Neoterique.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Impacted';
+    src: url('../assets/Impacted.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Kdam';
+    src:url('../assets/KdamThmorPro-Regular.ttf') format('truetype');
+    font-style: normal;
+  }
