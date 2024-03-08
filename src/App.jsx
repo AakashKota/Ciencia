@@ -12,7 +12,7 @@ import Navbar from './components/Navbar';
 import Counter from './Events/Countdown';
 import Footer from './components/Footer';
 import CoordinatorCarousel from './components/TeamCarousel';
-import AnimatedImagesOnScroll from './components/Flashmob';
+import AnimatedImagesOnScroll from './components/AnimatedImagesOnScroll';
 
 
 
